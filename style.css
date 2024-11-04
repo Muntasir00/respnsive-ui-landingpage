@@ -359,6 +359,8 @@ section p {
   background: #ffffff;
   border-radius: 24px;
   padding: 0px 32px;
+  height: 418px;
+  width: 526px;
   margin: 40px 0;
   position: relative;
 }
